@@ -1,1 +1,2 @@
 # indian_railway_management
+Railway systems play a crucial role in transportation and are vital for connecting people and goods across vast distances. Analyzing railway data can provide valuable insights into train schedules, passenger flows, popular routes, and station operations. In this project, we leverage PostgreSQL and Python to analyze and visualize railway data from the Railway Management System in India.
